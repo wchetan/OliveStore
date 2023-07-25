@@ -1,0 +1,6 @@
+const ACTION_TYPES = {
+  TOAST_SHOW: 'TOAST_SHOW',
+  TOAST_HIDE: 'TOAST_HIDE',
+};
+
+export default ACTION_TYPES;
