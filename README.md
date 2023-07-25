@@ -15,8 +15,8 @@ E-Commerce app made in React Native
 
 - React Native
 - Typescript
-- redux-persist with realmdb
-- react-navigation
+- redux-persist with realmdb [not in use]
+- react-navigation  [not in use]
 - react-native-root-siblings
 - react-native-vector-icons
 - will be updated ...
