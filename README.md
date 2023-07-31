@@ -24,8 +24,8 @@ E-Commerce app made in React Native
 ## Project progress
 
 - [x] User interface
-- [ ] Data modelling
-- [ ] State management & data flow
+- [ ] Integrating APIs
+- [ ] State management
 - [ ] Unit & e2e tests
 - [ ] Instrumentation
 - [ ] Profiling
