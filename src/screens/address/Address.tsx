@@ -61,22 +61,22 @@ const AllAddress: Array<AddressInfoType> = [
     id: '111111',
     name: 'Chetan Waghade',
     address:
-      'Flat no 7, 4th Floor, Harshal Park Wing B, Dnyandeep Colony, Near Lane No 1, Karve Nagar, Pune 411052',
-    phone: '+917559279778',
+      '',
+    phone: '',
   },
   {
     id: '222222',
     name: 'John Doe',
     address:
-      'Flat no 7, 4th Floor, Harshal Park Wing B, Dnyandeep Colony, Near Lane No 1, Karve Nagar, Pune 411052',
-    phone: '+917559279778',
+      '',
+    phone: '',
   },
   {
     id: '333333',
     name: 'Jane Doe',
     address:
-      'Flat no 7, 4th Floor, Harshal Park Wing B, Dnyandeep Colony, Near Lane No 1, Karve Nagar, Pune 411052',
-    phone: '+917559279778',
+      '',
+    phone: '',
   },
 ];
 
