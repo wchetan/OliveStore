@@ -104,7 +104,7 @@ const Payment = () => {
             <Text
               variant="bodySmall"
               text={
-                '4th Floor, Harshal Park, Shahu Colony, Lane 1, Mitra Vikas Mandal, Pune, Maharashtra - 411052'
+                'A random address'
               }
               style={[cStyles.mb8, cStyles.color_gray6]}
             />
