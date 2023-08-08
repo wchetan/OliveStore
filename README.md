@@ -11,15 +11,10 @@ E-Commerce app made in React Native
 - View order history and track shipments
 - Leave reviews and rating for products
 
-## Tech stack & libraries used
+## Primary Tech Stack 
 
-- React Native
-- Typescript
-- redux-persist with async storage
-- react-navigation
-- react-native-root-siblings
-- react-native-vector-icons
-- will be updated ...
+- React Native & Typescript
+- Refer package.json for other dependencies
 
 ## Project progress
 
