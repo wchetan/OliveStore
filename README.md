@@ -14,7 +14,6 @@ E-Commerce app made in React Native
 ## Primary Tech Stack 
 
 - React Native & Typescript
-- Refer package.json for other dependencies
 
 ## Project progress
 
